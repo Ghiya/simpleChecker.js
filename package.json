@@ -1,0 +1,18 @@
+{
+  "name": "simple-checker",
+  "version": "1.0.0",
+  "description": "A simple and customizable validator of user forms fields.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghiya/simpleChecker.js.git"
+  },
+  "author": "Ghiya Mikadze <g.mikadze@lakka.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ghiya/simpleChecker.js/issues"
+  },
+  "homepage": "https://github.com/Ghiya/simpleChecker.js#readme"
+}
